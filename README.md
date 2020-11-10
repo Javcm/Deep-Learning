@@ -1,2 +1,2 @@
 # Deep-Learning
-Algunos notebooks sobre tareas de deep learning con Tensor Flow, principalmente con la api Keras
+Algunos notebooks sobre ejercicios de deep learning para textos e imágenes con Tensor Flow, usando la api Keras.
